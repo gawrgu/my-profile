@@ -3,6 +3,10 @@
     background-color: #a2d9ff;
 }
 
+.name {
+    padding-top: 2rem;
+}
+
 body {
     min-height: auto;
 }
